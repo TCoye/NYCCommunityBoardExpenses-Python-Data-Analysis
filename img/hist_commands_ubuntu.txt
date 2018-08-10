@@ -1,0 +1,10 @@
+    1  ls
+    2  cd library/
+    3  ls
+    4  mkdir img
+    5  ls
+    6  mv *.png img
+    7  ls
+    8  cd img
+    9  ls
+   10  history > hist_commands_ubuntu.txt
